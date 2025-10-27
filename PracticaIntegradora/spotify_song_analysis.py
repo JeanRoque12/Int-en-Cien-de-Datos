@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics.pairwise import cosine_similarity
 
 #Exportacion de datos
-df_stats = pd.read_csv("Popular_Spotify_Songs.csv")
+df_stats = pd.read_csv("Popular_Spotify_Songs")
 
 
 #Estructura y tipos de datos
